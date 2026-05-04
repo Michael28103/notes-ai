@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+
+  <!-- Notepad -->
+  <rect x="18" y="16" width="60" height="72" rx="4" fill="#ffffff" stroke="#B4B2A9" stroke-width="0.5"/>
+  <!-- Spine -->
+  <rect x="18" y="16" width="9" height="72" rx="3" fill="#7F77DD"/>
+  <!-- AI text shadow -->
+  <text x="51" y="65" text-anchor="middle" font-family="sans-serif" font-weight="700" font-size="32" fill="#CECBF6" opacity="0.6">AI</text>
+  <!-- AI text -->
+  <text x="50" y="63" text-anchor="middle" font-family="sans-serif" font-weight="700" font-size="32" fill="#534AB7">AI</text>
+  <!-- Pencil group rotated -->
+  <g transform="translate(52, 42) rotate(-35)">
+    <!-- Eraser -->
+    <rect x="-4" y="-31" width="8" height="7" rx="1" fill="#D4537E"/>
+    <!-- Eraser band -->
+    <rect x="-4" y="-25" width="8" height="3" fill="#888780"/>
+    <!-- Pencil body -->
+    <rect x="-4" y="-22" width="8" height="34" fill="#EF9F27"/>
+    <!-- Tip -->
+    <polygon points="-4,12 4,12 0,21" fill="#888780"/>
+    <!-- Lead -->
+    <polygon points="-1,17 1,17 0,21" fill="#2C2C2A"/>
+  </g>
+</svg>
